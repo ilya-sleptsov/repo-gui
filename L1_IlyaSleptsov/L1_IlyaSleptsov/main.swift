@@ -3,7 +3,7 @@
 //  L1_IlyaSleptsov
 //
 //  Created by Илья Слепцов on 04.03.2021.
-//
+
 import Foundation
 
 // 1. решите квадратное уравнение
